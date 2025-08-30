@@ -1,6 +1,4 @@
-# note
-
-A new Flutter project.
+Note App in Flutter that runs on most operating systems.
 
 ## Getting Started
 
